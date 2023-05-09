@@ -1,2 +1,5 @@
 # Tamara 
 HOLA
+PIZZA
+INGREDIENTES PARA LA MASA:
+-1 1/2 Tazas 
