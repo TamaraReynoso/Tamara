@@ -1,5 +1,5 @@
-- HOLA
-- PIZZA.
+###Ejercicio
+- ###PIZZA.
 - Compra los ingredientes.
 - Amasa la masa.
 - Extiende la masa en forma circular.
