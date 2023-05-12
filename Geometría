@@ -2,7 +2,7 @@
 ##solucion 
 
 Preguntar qué volumen se necesita (cubo, pirámide o esfera)
-Si necesitamos un cubo, entonces:
+Si necesitamos un cubo, entonces:.
 2.1 Preguntar la longitud de un lado
 2.2 Dado que se supone que es la misma en los tres lados, el volumen es: volumen = lado _ lado _ lado o volumen = lado^3
 2.3 Imprimir el valor calculado, en este caso sería: 'volumen'
