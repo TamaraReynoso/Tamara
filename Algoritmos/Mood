@@ -11,5 +11,14 @@ FinAlgoritmo
 *** Ejecución Finalizada. ***
 
 
-NUMERO IMPAR
+-NUMERO IMPAR
+Algoritmo sin_titulo
+	Leer X
+	Imprimir X % 3
+	
+FinAlgoritmo
+*** Ejecución Iniciada. ***
+> 7
+1
+*** Ejecución Finalizada. ***
 
