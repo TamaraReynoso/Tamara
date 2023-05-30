@@ -1,4 +1,4 @@
-### Mood
+### Mood.
 - NUMERO PAR
 Algoritmo sin_titulo
 	Leer X
