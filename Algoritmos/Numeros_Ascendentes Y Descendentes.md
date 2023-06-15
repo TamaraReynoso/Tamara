@@ -25,3 +25,34 @@ Algoritmo Ascendente_Descendentes
 	FinSegun
 	
 FinAlgoritmo
+
+
+Numeros Ascendentes y Descendentes
+Ingrese un numero
+> 8
+Operaciones disponibles:
+1. Imprimir en orden Ascendente
+2. Imprimir en orden Descendente
+ingrese operacion a ejecutar
+> 2
+8
+7
+6
+5
+4
+3
+2
+1
+0
+*** Ejecución Finalizada. ***
+
+
+
+
+
+
+
+
+
+
+
