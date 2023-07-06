@@ -1,14 +1,14 @@
 ## COMISIONES DE VENTAS!!
-``Algoritmo ComisionesDeVentas
+``Algoritmo ComisionesDeVentas``
 	escribir "ingresar el numero total de ventas"
 	leer cantidaddeventas
 	ingresostotales =0
-	para venta=1 Hasta cantidaddeventas con paso 1 Hacer
-		Escribir "el valor de la venta numero: " , venta
+	``para venta=1 Hasta cantidaddeventas con paso 1 Hacer
+		``Escribir "el valor de la venta numero: " , venta
 		leer cantidad
 		ingresostotales = ingresostotales + cantidad ``	
 	``FinPara
-	promedio = ingresostotales / cantidaddeventas
+	promedio = ingresostotales / cantidaddeventas``
 	Escribir "el promedio de ventas es: " , promedio``
 
 	
