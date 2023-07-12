@@ -1,4 +1,6 @@
-## NombreCompleto.
+## NombreCompleto. 
+
+````psc
 Algoritmo Nombre_Completo
 	Escribir "Escribe un nombre"
 	leer first_nombre
@@ -9,7 +11,7 @@ Algoritmo Nombre_Completo
 	Imprimir corrected_first_nombre, " ", corrected_last_nombre 
 	
 FinAlgoritmo
-
+````
 
 *** Ejecución Iniciada. ***
 Escribe un nombre
